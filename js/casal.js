@@ -8,7 +8,7 @@ function showNextImage() {
 }
 setInterval(showNextImage, 2500);
 
-const startDate = new Date('2022-04-30');
+const startDate = new Date('2024-8-11');
 const yearsSpan = document.getElementById('years');
 const monthsSpan = document.getElementById('months');
 const daysSpan = document.getElementById('days');
